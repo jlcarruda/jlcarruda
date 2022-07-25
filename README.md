@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/jlcarruda/)](https://www.linkedin.com/in/jlcarruda/)
 
 <!-- - 🔭 I’m currently working on Banco Inter -->
-- 🌱 I’m currently learning Clojure and Game Development
+- 🌱 I’m currently learning Clojure, Kotlin, AdoniJS Framework, Solidity and Game Development
 - 👯 I’m looking to collaborate on any project that is enroled at Node.JS or Game Development with Unity.
 - 🤔 I’m looking for help with Game Development with Unity and Blockchain Smart Contracts development with Solidity.
 - 💬 Ask me about Backend Development with Node.JS, AWS Cloud and Backend Architecture.
