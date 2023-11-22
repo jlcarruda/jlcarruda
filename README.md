@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on any project that is enroled at Node.JS or Game Development with Unity.
 - 🤔 I’m looking for help with Game Development with Unity and Blockchain Smart Contracts development with Solidity.
 - 💬 Ask me about Backend Development with Node.JS, AWS Cloud and Backend Architecture.
-- 📫 How to reach me: jlcarruda3@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My alias is `Giga`
 
